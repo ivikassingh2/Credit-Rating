@@ -51,7 +51,7 @@ We build a multiple linear regression model to predict `Balance` using quantitat
 
 Click below to open the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivikassingh2/Credit-Rating/blob/main/credit_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivikassingh2/Credit-Rating/blob/main/credit.ipynb)
 
 ## 🛠️ Libraries Used
 
