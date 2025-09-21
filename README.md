@@ -41,7 +41,7 @@ We build a multiple linear regression model to predict `Balance` using quantitat
 
 ### 🧪 Model Diagnostics
 
--Pair plots
+- Pair plots
 - Variance Inflation Factor (VIF) for multicollinearity
 - R² and adjusted R²
 - Lasso Regression for variable selection
@@ -51,9 +51,7 @@ We build a multiple linear regression model to predict `Balance` using quantitat
 
 Click below to open the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<your-repo>/blob/main/credit_analysis.ipynb)
-
-> Replace `<your-username>` and `<your-repo>` with your actual GitHub details.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivikassingh2/Credit-Rating/blob/main/credit_analysis.ipynb)
 
 ## 🛠️ Libraries Used
 
